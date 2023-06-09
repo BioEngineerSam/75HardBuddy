@@ -1,14 +1,14 @@
 //
-//  _5hardbuddyApp.swift
-//  75hardbuddy
+//  seventy5hardbuddyApp.swift
+//  seventy5hardbuddy
 //
-//  Created by Mohamed Ghazal on 2023-06-01.
+//  Created by Mohamed Ghazal on 2023-06-08.
 //
 
 import SwiftUI
 
 @main
-struct _5hardbuddyApp: App {
+struct seventy5hardbuddyApp: App {
     let persistenceController = PersistenceController.shared
 
     var body: some Scene {

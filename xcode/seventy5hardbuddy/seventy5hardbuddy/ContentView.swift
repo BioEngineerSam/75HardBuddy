@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  75hardbuddy
+//  seventy5hardbuddy
 //
-//  Created by Mohamed Ghazal on 2023-06-01.
+//  Created by Mohamed Ghazal on 2023-06-08.
 //
 
 import SwiftUI

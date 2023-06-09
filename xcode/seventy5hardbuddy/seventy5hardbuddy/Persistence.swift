@@ -1,8 +1,8 @@
 //
 //  Persistence.swift
-//  75hardbuddy
+//  seventy5hardbuddy
 //
-//  Created by Mohamed Ghazal on 2023-06-01.
+//  Created by Mohamed Ghazal on 2023-06-08.
 //
 
 import CoreData
@@ -31,7 +31,7 @@ struct PersistenceController {
     let container: NSPersistentContainer
 
     init(inMemory: Bool = false) {
-        container = NSPersistentContainer(name: "_5hardbuddy")
+        container = NSPersistentContainer(name: "seventy5hardbuddy")
         if inMemory {
             container.persistentStoreDescriptions.first!.url = URL(fileURLWithPath: "/dev/null")
         }
